@@ -1,0 +1,20 @@
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\bin\Debug\COMPlot.exe.config
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\bin\Debug\COMPlot.exe
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\bin\Debug\COMPlot.pdb
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\obj\Debug\COMPlot.Properties.Resources.resources
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\obj\Debug\COMPlot.csproj.GenerateResource.Cache
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\obj\Debug\COMPlot.exe
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\obj\Debug\COMPlot.pdb
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\obj\Debug\COMPlot.mainForm.resources
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Jie\Documents\脉象课题\files@FHL\files transfer folder\C# code\COMPlot\COMPlot\obj\Debug\COMPlot.csprojResolveAssemblyReference.cache
+E:\03personal\DeepLearning\COMMplot\COMPlot\bin\Debug\COMPlot.exe.config
+E:\03personal\DeepLearning\COMMplot\COMPlot\obj\Debug\COMPlot.exe
+E:\03personal\DeepLearning\COMMplot\COMPlot\obj\Debug\COMPlot.pdb
+E:\03personal\DeepLearning\COMMplot\COMPlot\bin\Debug\COMPlot.exe
+E:\03personal\DeepLearning\COMMplot\COMPlot\bin\Debug\COMPlot.pdb
+E:\03personal\DeepLearning\COMMplot\COMPlot\obj\Debug\COMPlot.csprojResolveAssemblyReference.cache
+E:\03personal\DeepLearning\COMMplot\COMPlot\obj\Debug\COMPlot.mainForm.resources
+E:\03personal\DeepLearning\COMMplot\COMPlot\obj\Debug\COMPlot.Properties.Resources.resources
+E:\03personal\DeepLearning\COMMplot\COMPlot\obj\Debug\COMPlot.csproj.GenerateResource.Cache
